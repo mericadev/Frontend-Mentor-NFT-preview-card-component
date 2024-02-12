@@ -27,8 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://your-solution-url.com](https://github.com/mericadev/Frontend-Mentor-NFT-preview-card-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: (https://mericadev.github.io/Frontend-Mentor-NFT-preview-card-component/)
 ## My process
 
 ### Built with
